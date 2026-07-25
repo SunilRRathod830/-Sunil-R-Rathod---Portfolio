@@ -1,0 +1,45 @@
+.certifications-section {
+  padding: 5rem 0;
+}
+
+.certifications-section h2 {
+  font-size: 3rem;
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+}
+
+.certifications-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.certification-card {
+  padding: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 1.25rem;
+  background: rgba(255, 255, 255, 0.04);
+  transition: transform 0.2s ease, border-color 0.2s ease;
+  text-decoration: none;
+  color: inherit;
+}
+
+.certification-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.certification-card h4 {
+  font-size: 1.15rem;
+  margin-bottom: 0.75rem;
+}
+
+.certification-card p {
+  margin-bottom: 0.75rem;
+  opacity: 0.8;
+}
+
+.certification-card span {
+  font-weight: 600;
+  color: #9be2e8;
+}
