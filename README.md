@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Sunil R Rathod - Developer Portfolio
 
 <div align="center">
@@ -369,3 +370,6 @@ Computer Science Engineering Undergraduate
 If you found this project useful, please give it a ⭐.
 
 </div>
+=======
+# -Sunil-R-Rathod---Portfolio
+>>>>>>> 6f5eec55db2d6c65a93fc56eb38494493b8c3d09
