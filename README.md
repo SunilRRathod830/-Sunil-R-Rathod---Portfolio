@@ -30,6 +30,38 @@ A responsive and interactive portfolio website built using **React, TypeScript, 
 
 # 📸 Screenshots
 
+# 📸 Screenshots
+
+## 🏠 Home Page
+
+<p align="center">
+  <img src="./images/home.png" width="100%">
+</p>
+
+## 👨 About Section
+
+<p align="center">
+  <img src="./images/about.png" width="100%">
+</p>
+
+## 💻 Skills Section
+
+<p align="center">
+  <img src="./images/skills.png" width="100%">
+</p>
+
+## 🚀 Projects Section
+
+<p align="center">
+  <img src="./images/projects.png" width="100%">
+</p>
+
+## 📞 Contact Section
+
+<p align="center">
+  <img src="./images/contact.png" width="100%">
+</p>
+
 ## 🏠 Home Page
 
 ![Home](./images/1%20Screenshot%202026-07-26%20at%201.26.48%20AM.png)
