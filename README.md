@@ -28,7 +28,7 @@ A responsive and interactive portfolio website built using **React, TypeScript, 
 
 ---
 
-# 📸 Screenshots
+
 
 # 📸 Screenshots
 
